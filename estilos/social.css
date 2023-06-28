@@ -1,6 +1,6 @@
 @charset "UTF-8"
-<style>
-*{
+
+* {
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
@@ -12,20 +12,22 @@
 }
 
 img{
-    width: 98vw;
+    width: 100vw;
+    
 }
 
 a{
     display: block;
     background-color:brown;
     color: white;
-    padding: 15px;
+    padding: 10px;
+    margin: -4px 0px -14px 0px;
     text-align: center;
     font-weight: bolder;
     text-decoration: none;
+    width: 96vw;
 }
 
 a:hover{
     background-color: red;
 }
-</style>
